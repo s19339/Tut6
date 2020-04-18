@@ -1,0 +1,7 @@
+Path: /weatherforecast; Query String: ; Method: GET; Body Parameters: 
+Path: /favicon.ico; Query String: ; Method: GET; Body Parameters: 
+Path: /weatherforecast; Query String: ; Method: GET; Body Parameters: 
+Path: /favicon.ico; Query String: ; Method: GET; Body Parameters: 
+Path: /weatherforecast; Query String: ; Method: GET; Body Parameters: 
+Path: /favicon.ico; Query String: ; Method: GET; Body Parameters: 
+Path: /weatherforecast; Query String: ; Method: GET; Body Parameters: 
